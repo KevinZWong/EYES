@@ -1,0 +1,6 @@
+[submodule "EYES/Mapling_EYES"]
+	path = EYES/Mapling_EYES
+	url = https://github.com/KevinZWong/Mapling
+[submodule "EYES/aeneas"]
+	path = EYES/aeneas
+	url = https://github.com/readbeyond/aeneas
