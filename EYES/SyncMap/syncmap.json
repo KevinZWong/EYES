@@ -1,0 +1,104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "5.760",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "Once upon a time, there was a young girl named Goldilocks who wandered into the forest and stumbled upon a cottage"
+   ]
+  },
+  {
+   "begin": "5.760",
+   "children": [],
+   "end": "10.480",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "The cottage belonged to three bears, a Papa Bear, a Mama Bear, and a Baby Bear"
+   ]
+  },
+  {
+   "begin": "10.480",
+   "children": [],
+   "end": "13.400",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Finding the bears away, Goldilocks entered the cottage and explored"
+   ]
+  },
+  {
+   "begin": "13.400",
+   "children": [],
+   "end": "19.120",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "She tried their porridge Papa Bear's was too hot, Mama Bear's was too cold, but Baby Bear's was just right, so she ate it all"
+   ]
+  },
+  {
+   "begin": "19.120",
+   "children": [],
+   "end": "20.160",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "Then she tried the chairs"
+   ]
+  },
+  {
+   "begin": "20.160",
+   "children": [],
+   "end": "25.640",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "Papa Bear's was too hard, Mama Bear's was too soft, but Baby Bear's was just right, though it broke under her weight"
+   ]
+  },
+  {
+   "begin": "25.640",
+   "children": [],
+   "end": "28.680",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Finally, feeling tired, Goldilocks tried their beds"
+   ]
+  },
+  {
+   "begin": "28.680",
+   "children": [],
+   "end": "32.600",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Papa Bear's was too firm, Mama Bear's was too soft, but Baby Bear's was just right"
+   ]
+  },
+  {
+   "begin": "32.600",
+   "children": [],
+   "end": "34.000",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "And then she fell asleep"
+   ]
+  },
+  {
+   "begin": "34.000",
+   "children": [],
+   "end": "40.280",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "When the bears returned and found her, Goldilocks woke up, got scared, ran away, and back to her home, never to return to the forest again"
+   ]
+  }
+ ]
+}
